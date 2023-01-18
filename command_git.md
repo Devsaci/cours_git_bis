@@ -6,3 +6,6 @@ git diff
 git log
 git checkout
 git switch
+
+# $ git config --global --list
+
